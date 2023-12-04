@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>About Beauty Parlor</title>
+<style>
+    header{
+         color: white;
+         font-style: cambria;
+}
+h2{
+   color: lightblue;
+}
+p{
+  color: white;
+}
+.image-container {
+      display: inline-block;
+      margin-right: 10px; /* Adjust the margin as needed */
+    }
+</style>
+</head>
+<body>
+    <body background="C:\Users\Sneha\Desktop\project\backpink...jpg">
+    <header>
+        <h1><i>Welcome to Our Salon</i></h1>
+    </header>
+
+    <section class="about-section">
+        <h2><u>About Us</u></h2>
+        <p>Welcome to our salon, where we strive to make you look and feel your best. Our team of skilled professionals is dedicated to providing top-notch beauty services in a relaxing and welcoming environment.</p>
+
+        <p>At our salon, we offer a wide range of services including hair styling, skincare, makeup, and more. We believe in using high-quality products and staying up-to-date with the latest trends to ensure that our clients leave satisfied with the results.</p>
+
+        <p>Customer satisfaction is our top priority. Whether you're preparing for a special occasion or simply want to pamper yourself, we're here to help you achieve the look you desire.</p>
+
+ <div class="image-container">
+    <img src="C:\Users\Sneha\Desktop\project\gold facial.jpg" alt="hair dressing" width="300" height="300">
+  </div>
+
+  <div class="image-container">
+    <img src="C:\Users\Sneha\Desktop\project\hair dressing.jpeg"alt="face mask" width="300" height="300">
+  </div>
+
+ <div class="image-container">
+    <img src="C:\Users\Sneha\Desktop\project\makeup.jpg" alt="face mask" width="300" height="300">
+  </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your salon. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
